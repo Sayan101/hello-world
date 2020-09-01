@@ -1,4 +1,5 @@
 # hello-world
 starting projects on github
-This i s a test 
+This is a test 
 starting work on github
+Going to be more active now.
